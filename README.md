@@ -89,17 +89,6 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-prakash17&layout=compact&theme=tokyonight" />
 </p>
 
----
-
-## 📜 Certifications
-
-- ✅ C++ Internship
-- ✅ HTML Certification
-- ✅ Google Play Store App Publishing
-- ✅ Science Day Participation
-- ✅ Cloud Computing Learning Journey
-
----
 
 ## 🤝 Connect With Me
 
